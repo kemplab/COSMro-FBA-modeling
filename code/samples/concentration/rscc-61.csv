@@ -1,0 +1,18 @@
+METABOLITE,CONCENTRATION [M],LB_CONCENTRATION [M],UB_CONCENTRATION [M]
+asp_L[c],nan,6.8069614E-07,2.32417966E-06
+chsterol[c],0.0344,nan,nan
+cys_L[c],nan,0.0001291394,0.0002373385
+glu_L[c],nan,1.05962239E-05,1.54697639E-05
+gthox[c],nan,1.51778253E-08,3.34815989E-08
+gthrd[c],nan,8.74986456E-06,9.99630304E-06
+hdca[c],0.00147,nan,nan
+hdcea[c],0.000495,nan,nan
+ocdca[c],0.000375,nan,nan
+ocdcea[c],0.00148,nan,nan
+ocdcya[c],0.00009,nan,nan
+pchol_hs[c],6.98,nan,nan
+pe_hs[c],2.96,nan,nan
+pglyc_hs[c],0.0564,nan,nan
+ps_hs[c],1.48,nan,nan
+sphmyln_hs[c],0.793,nan,nan
+ttdca[c],0.00025,nan,nan
